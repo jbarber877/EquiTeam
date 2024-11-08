@@ -33,10 +33,16 @@ Energy Efficiency and Renewable Energy (EERE) - U.S. Department of Energy**
 International Energy Agency (IEA)
 Energy Efficiency 2019*. (2019). Retrieved from [IEA](https://www.iea.org/reports/energy-efficiency-2019)
 
-Photo by <a href="https://unsplash.com/@publicpowerorg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">American Public Power Association</a> on <a href="https://unsplash.com/photos/solar-panel-under-blue-sky-XGAZzyLzn18?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-Photo by <a href="https://unsplash.com/@j_blueberry?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jack Blueberry</a> on <a href="https://unsplash.com/photos/a-red-barn-with-a-black-roof-8aP33aLPmgY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-Photo by <a href="https://unsplash.com/@appolinary_kalashnikova?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Appolinary Kalashnikova</a> on <a href="https://unsplash.com/photos/wind-turbine-surrounded-by-grass-WYGhTLym344?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-Photo by <a href="https://unsplash.com/@pavement_special?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Riccardo Annandale</a> on <a href="https://unsplash.com/photos/man-holding-incandescent-bulb-7e2pe9wjL9M?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Fritz, Angela. “What Is Hydroelectric Energy, and How Does It Work?” The Conversation, December 9, 2022. https://theconversation.com/what-is-hydroelectric-energy-and-how-does-it-work-190886.
+
+Photo by American Public Power Association on Unsplash
+https://unsplash.com/photos/solar-panel-under-blue-sky-XGAZzyLzn18?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo by Jack Blueberry on Unsplash
+https://unsplash.com/photos/a-red-barn-with-a-black-roof-8aP33aLPmgY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo by Appolinary Kalashnikova on Unsplash
+https://unsplash.com/photos/wind-turbine-surrounded-by-grass-WYGhTLym344?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo by Riccardo Annandale on Unsplash
+https://unsplash.com/photos/man-holding-incandescent-bulb-7e2pe9wjL9M?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
            
 
 Story by HTML5 UP
