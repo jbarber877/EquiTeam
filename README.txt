@@ -33,6 +33,12 @@ Energy Efficiency and Renewable Energy (EERE) - U.S. Department of Energy**
 International Energy Agency (IEA)
 Energy Efficiency 2019*. (2019). Retrieved from [IEA](https://www.iea.org/reports/energy-efficiency-2019)
 
+Photo by <a href="https://unsplash.com/@publicpowerorg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">American Public Power Association</a> on <a href="https://unsplash.com/photos/solar-panel-under-blue-sky-XGAZzyLzn18?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@j_blueberry?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jack Blueberry</a> on <a href="https://unsplash.com/photos/a-red-barn-with-a-black-roof-8aP33aLPmgY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@appolinary_kalashnikova?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Appolinary Kalashnikova</a> on <a href="https://unsplash.com/photos/wind-turbine-surrounded-by-grass-WYGhTLym344?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@pavement_special?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Riccardo Annandale</a> on <a href="https://unsplash.com/photos/man-holding-incandescent-bulb-7e2pe9wjL9M?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+           
+
 Story by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the **CCA 3.0 license** ([License](https://html5up.net/license))
