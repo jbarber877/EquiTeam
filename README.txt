@@ -1,4 +1,6 @@
 **README**
+### Authors
+Jared Barber, Pedro Rabi Espino, Landon Crapes
 
 ### Project Overview
 This website is our submission for the GEA final group project in EGN3615. It focuses on **UN Sustainable Development Goal #7: Affordable and Clean Energy**. 
